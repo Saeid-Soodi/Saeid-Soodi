@@ -6,13 +6,6 @@
 <p align="left"> <a href="https://twitter.com/saeid__si" target="blank"><img src="https://img.shields.io/twitter/follow/saeid__si?logo=twitter&style=for-the-badge" alt="saeid__si" /></a> </p>
 
 - 🌱 I’m currently learning **React.js Next.js**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Saeid-Soodi](https://github.com/Saeid-Soodi)
-
-- 📝 I am also active on Instagram as [instagram.com/saeedsi_tech](instagram.com/saeedsi_tech)
-
-- 💬 Ask me about **Front End**
-
 - 📫 How to reach me **saeed.soodi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
