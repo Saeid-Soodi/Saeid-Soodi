@@ -27,8 +27,14 @@
  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:saeid.soodi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href ="https://wakatime.com/@018da999-df4c-4fff-971b-06cddf39324c" target="_blank">
-    <img src="https://img.shields.io/badge/WakaTime-orange?link=https%3A%2F%2Fwakatime.com%2F%40018da999-df4c-4fff-971b-06cddf39324c"/></a>
+  
+  <a href ="https://wonderful.dev/saeedsoodi" target="_blank">
+    <img src="https://img.shields.io/badge/Wonderful.dev-black?style=for-the-badge"/></a>
+    
+   <a href ="https://wakatime.com/@018da999-df4c-4fff-971b-06cddf39324c" target="_blank">
+    <img src="https://img.shields.io/badge/WakaTime-red?style=for-the-badge
+"/></a>
+    
   <a href=""><img src="![Static Badge](https://img.shields.io/badge/WakaTime-orange?style=flat)"/></a>
 
 
