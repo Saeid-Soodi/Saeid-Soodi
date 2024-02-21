@@ -1,10 +1,12 @@
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Saeed+Soodi!;" />
+</h1>
 <p align="center">
   <img align="center" width="400px" src="https://github.com/Saeid-Soodi/Saeid-Soodi/blob/main/Saeed-Soodi.png"></img>
 </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Saeed+Soodi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=2000&lines=if+its+diamond💎;+It's+Mine!;" />
 </h1>
 
 <h3 align="center">A Passionate Programmer about coding, transforming thoughts into pixels and functions.</h3>
