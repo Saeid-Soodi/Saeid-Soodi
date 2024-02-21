@@ -34,8 +34,7 @@
     <img src="https://img.shields.io/badge/Wonderful.dev-black?style=for-the-badge"/></a>
     
    <a href ="https://wakatime.com/@018da999-df4c-4fff-971b-06cddf39324c" target="_blank">
-    <img src="https://img.shields.io/badge/WakaTime-red?style=for-the-badge
-"/></a>
+    <img src="https://img.shields.io/badge/WakaTime-red?style=for-the-badge"/></a>
     
   <a href=""><img src="![Static Badge](https://img.shields.io/badge/WakaTime-orange?style=flat)"/></a>
 
