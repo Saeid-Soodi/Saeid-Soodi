@@ -47,8 +47,12 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,html,css,bootstrap,sass,less,tailwind,wordpress,vscode,github,git" /><br>
-    <img src="https://skillicons.dev/icons?i=javascript,react,threejs,nodejs,php,figma,photoshop,illustrator,premiere" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,php,npm" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass" /><br>
+    <img src="https://skillicons.dev/icons?i=wordpress,vscode,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,react,threejs,nodejs" /><br>
+     <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,premiere" /><br>
+
 </div>
 <div>
     <br>
